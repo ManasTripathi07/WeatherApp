@@ -55,23 +55,32 @@ Follow these steps to set up and run the Weather App locally:
 
 Below are some screenshots of the Weather App:
 
-1. **Homepage** - Initial screen with a search bar.
-   
-   ![Homepage](assets/homepage.png)
+1. **Homepage** - Initial screen with a Grant Location Access Permission Button.
 
-2. **Weather Results** - Displaying weather data after a search.
-   
-   ![Weather Results](assets/weather-results.png)
+   ![1](https://github.com/user-attachments/assets/f18a9b67-5dbf-4dd8-9e71-5a7c3eea0c44)
 
-3. **Error Message** - Displaying an error message when an invalid city is entered.
-   
-   ![Error Message](assets/error-message.png)
+
+2. **Search Weather ** - Displaying search box to get weather info about any place.
+
+   ![2](https://github.com/user-attachments/assets/b4bc0d3d-478d-42fd-b33b-d57b99312d9a)
+
+3. **Search Weather Output** - Displaying Weather Information about the name of the place entered.
+
+   ![3](https://github.com/user-attachments/assets/bc4b5e95-127f-48a5-9f28-92faa729ccff)
+
+4. **Error Message** - Displaying an error message when an invalid city is entered.
+
+   ![4](https://github.com/user-attachments/assets/12e610fb-8034-4df0-ba8f-6017938e4828)
+
+
 
 ## Demo Video
 
 A video demonstration of the Weather App’s functionality can be found below:
 
-[![Demo Video](assets/demo-thumbnail.png)](https://drive.google.com/file/d/1dpCJ1Y8abg_RCHrK3V4Cys6Zo-s54Euj/view)
+[WeatherAppWorking.webm](https://github.com/user-attachments/assets/2ab666d3-bc4b-4879-9cdf-94c09aa7f9ff)
+
+
 
 ## Technologies Used
 
